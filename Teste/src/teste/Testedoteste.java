@@ -1,7 +1,6 @@
 package teste;
 
-public class Teste {
+public class Testedoteste {
 	
 	int teste;
-	
 }
